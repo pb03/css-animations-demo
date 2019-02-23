@@ -1,6 +1,8 @@
 {
-  "name": "animations-demo",
+  "name": "css-animations-demo",
   "version": "0.1.0",
+  "description": "Music app demo",
+  "author": "Prasanjit Singh <prasanjit.singh@live.com> (https://prasanjit.com)",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
