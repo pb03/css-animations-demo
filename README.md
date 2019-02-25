@@ -4,7 +4,7 @@ This is a music player app built using [Vue.js](https://vuejs.org/). This demo i
 
 Ckeckout live! https://pb03.github.io/css-animations-demo/
 
-![Demo](https://github.com/pb03/css-animations-demo/master/demo.gif)
+![Demo](https://github.com/pb03/css-animations-demo/raw/master/demo.gif)
 
 ### Project setup
 ```
